@@ -1,5 +1,5 @@
 Module {
 	name: 'vls',
-	description: ''ls' commmad alternative written in V.',
+	description: 'ls commmad alternative written in V.',
 	dependencies: []
 }
