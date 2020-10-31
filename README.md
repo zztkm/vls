@@ -26,3 +26,7 @@ Pull requests and stars are always welcome.
 1. Submit a pull request :D
 
 For bugs and feature requests, please [create an issue](https://github.com/zztkm/vls/issues).
+
+## License
+
+[MIT License](LICENSE.txt)
